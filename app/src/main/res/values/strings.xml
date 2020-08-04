@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SmartHands</string>
+    <string name="hint_resource">Select a Language</string>
+    <string name="select">Select</string>
+    <string name="next">Next</string>
+    <string name="send_message">Send Message</string>
+    <string name="copy_translated_text_only_if_hindi">Copy translated text(Only if Hindi)</string>
+    <string-array name="spinnerMic">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Marathi</item>
+        <item>Gujarati</item>
+        <item>Urdu</item>
+        <item>Malayalam</item>
+        <item>Telugu</item>
+        <item>Kannada</item>
+        <item>Punjabi</item>
+        <item>Bengali</item>
+    </string-array>
+</resources>
